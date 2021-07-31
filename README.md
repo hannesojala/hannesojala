@@ -6,3 +6,4 @@ Feel free to reach out and ask about any of my projects, or show me any of yours
 I'm always looking for new projects to work on!
 
 ---
+contact: hannes.ojala<at>att.net
